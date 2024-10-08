@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-I'm an iOS Developer with a passion for building intuitive and performant mobile applications. I specialize in Swift and love crafting seamless user experiences. Currently, I'm focusing on improving my skills in UIKit and SwiftUI to build modern iOS applications.
+I am an iOS developer with a passion for creating intuitive and high-performance mobile applications. My expertise lies in Swift, and I take pleasure in creating smooth and engaging experiences for users. Currently, I'm focused on honing my skills in UIKit and SwiftUI to build modern, scalable iOS apps that meet the evolving needs of users and technology alike. I'm always exploring new techniques and tools to enhance the development process and deliver top-tier apps.
 
 ## 🔧 Tech Stack
 
-- **Languages**: Swift, Objective-C, Python
+- **Languages**: Swift, Objective-C
 - **Frameworks**: UIKit, SwiftUI, Core Data
 - **Tools**: Xcode, Git, CocoaPods, Fastlane
 - **Other Technologies**: RESTful APIs, MVVM, Combine, Core Animation

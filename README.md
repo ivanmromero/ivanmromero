@@ -1,4 +1,8 @@
-## Hi there 👋 I'm Ivan
+
+<img alt="Make your README 8" style="width: 100%;" src="https://github.com/user-attachments/assets/a992af4d-f740-4c5f-bad2-92b17a5d6d81" >
+
+
+## Hi there 👋
 
 <!--
 **ivanmromero/ivanmromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
